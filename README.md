@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, my email Joeyperea754@yahoo.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: some facts aren't always fun
 
 <!---
 jojocodes754/jojocodes754 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
